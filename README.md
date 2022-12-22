@@ -1,12 +1,26 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# 🎆 We❤️ Web (Componets Library)
 
-# Naam deeltaak
+![library](https://user-images.githubusercontent.com/90189815/209218836-72726cd7-168b-4eff-b9a9-66a356c7f22e.png)
 
 
-## Licentie
+## ⚡ Kenmerken
+Ontwerp en maak een componen
 
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+Tools
 
-This work is licensed under [GNU GPLv3](./LICENSE).
+🖥️ VSCode
+✍ Pen & Papier
+Gebruikte technieken
+
+🚀 SvelteKit
+🖼 Prismic.io
+😎 CMD Midterm components
+💅🏼 CSS
+
+## 📥 Installatie
+```
+Clone of download deze repository
+Ga naar de root directory van het project.
+Gebruik npm install om de gebruikte dev dependencies en packages te installeren.
+Gebruik npm run dev om de web-server te starten.
+```
